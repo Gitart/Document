@@ -61,12 +61,17 @@
 
 ### Данные из системы BI
 ```
+[
   {
     "ID": "string", 
     "ID_STRUCTURE":"QWWE-RYRYR-RKOITOT-ROOROR1",
     "ID_DRUG": "1233445",
     "COUNT":123
-   }
+   },
+   {...},
+   {...},
+   {...}
+]
 ```
 
 ### Запрос для BI на расчет анализа
@@ -76,15 +81,6 @@
     "ID_STRUCTURE":"QWWE-RYRYR-RKOITOT-ROOROR1",
     "NAME_STRUCTURE":"Name TT",
     "ID_ANALYZES":1,
-    "DUE_ADTE":"01-20-2016T02:04:00"
+    "DUE_DATE":"01-20-2016T02:04:00"
    }
 ```
-
-
-
-
-
-
-
-
-
