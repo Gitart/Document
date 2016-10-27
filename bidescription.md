@@ -3,7 +3,7 @@
 
 
 
-##Основные API для BI
+## Основные API для BI
 |API|Method|Description|
 |----|----|----|
 |**/bi/task**|GET|Получение задания для расчета
@@ -13,10 +13,11 @@
 |**/bi/data/{key}**|GET|Получение готового расчитанного результата BI по ключу для ТТ
 
 
-# Данные из системы BI
+## Данные из системы BI
 ```
   {
-    "ID":"string", 
+    "ID": "string", 
+    "ID_STRUCTURE":"QWWE-RYRYR-RKOITOT-ROOROR1",
     "ID_DRUG": "1233445",
     "COUNT":123
    }
