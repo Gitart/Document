@@ -21,14 +21,44 @@
 ## Основные API для BI
 |API|Method|Description|
 |----|----|----|
-|**/bi/task**|GET|Получение задания для расчета
-|**/bi/load**|POST|Для загрузки данных из системы BI 
-|**/bi/directory/pharmacy**|GET|Справочник торговых точек  
-|**/bi/directory/anlyses**|GET|Справочник перечня анализа
+|**/bi/task**|GET|Получение запроса для расчета от **ТТ**
+|**/bi/load**|POST|Для загрузки данных из системы **BI** 
+|**/bi/directory/pharmacy**|GET|Справочник **ТТ**
+|**/bi/directory/anlyses**|GET|Справочник анализов в **BI**
 |**/bi/data/{key}**|GET|Получение готового расчитанного результата BI по ключу для ТТ
 
 
 ## Формат JSON данных
+
+
+### Cправочник ТТ
+```
+[
+  {
+    "ID_STRUCTURE":"QWWE-RYRYR-RKOITOT-ROOROR1",
+    "NAME_STRUCTURE":"POINT ONE",
+    "NAME_CORPORATION":"CORPORATION NAME TWO"
+   },
+   {......},
+   {......}
+]
+   
+```
+
+### Cправочник анализов
+```
+[
+  {
+    "ID":"QWWE-RYRYR-RKOITOT-ROOROR1",
+    "NAME":"POINT ONE",
+   },
+   {......},
+   {......}
+]
+   
+```
+
+
 ### Данные из системы BI
 ```
   {
