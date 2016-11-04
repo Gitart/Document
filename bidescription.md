@@ -32,8 +32,8 @@
 ## Основные API для BI
 |API|Method|Description|
 |----|----|----|
-|**/bi/load/CodID*AnalizID**|POST|Для загрузки данных из системы **BI** 
-|**/bi/data/{ID_ANALYSIS}**|GET|Получение готового расчитанного результата BI по ключу для ТТ
+|**/bi/load/ID_STRUCTURE*ID_ANALYSIS**|POST|Для загрузки данных из системы **BI** 
+|**/bi/data/ID_STRUCTURE*ID_ANALYSIS**|GET|Получение готового расчитанного результата BI по ключу для ТТ
 |**/bi/directory/pharmacy**|GET|Справочник **ТТ**
 |**/bi/directory/anlysis**|GET|Справочник анализов в **BI**
 |**/bi/task**|GET|Получение запроса для расчета от **ТТ**
