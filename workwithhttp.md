@@ -57,8 +57,9 @@
  
  
 ### 5. Коды возвращаемые сервисом
-- http://great-world.ru/kody-otvetov-servera-i-oshibki-http-200-301-404-302-500-503-550/#507 
-- https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BA%D0%BE%D0%B4%D0%BE%D0%B2_%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D1%8F_HTTP
+[Описание кодов HTTP](http://great-world.ru/kody-otvetov-servera-i-oshibki-http-200-301-404-302-500-503-550/#507)   
+[Описание кодов HTTP](https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BA%D0%BE%D0%B4%D0%BE%D0%B2_%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D1%8F_HTTP)  
+
 
 
 |Params|Description
@@ -69,15 +70,3 @@
 |**403**|Доступ к ресурсу, к которому у нет доступа
 |**404**|Запрошенный ресурс не может быть найден
 |**409**|Время ожидания сервером передачи от клиента истекло
-
-
-
-
-
-
-
-
-
-
-
-
