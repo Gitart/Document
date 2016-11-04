@@ -43,7 +43,8 @@
 **curl -XPOST -i http://10.10.10.10:1010/bi/loadcsv/С001002020*12  -T need.csv  - H"AccessKey:XXXXXXXXX" -H"IdComapny:125364774"**
  
  _**Расшифровка - описание команды :**_   
- |Arg|Description
+ 
+ |Arg|Description|
  |---|---|
  |***сurl***|Команда запроса   
  |***XPOST***|Запрос к сервису на отправку данных   
