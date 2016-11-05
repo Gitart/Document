@@ -113,3 +113,11 @@ rgr.exe
 
 PAUSE
 ```
+
+
+
+## Links 
+- https://play.golang.org/p/ZdFpbahgC1  
+- https://golang.org/pkg/math/rand/#example_  
+
+
