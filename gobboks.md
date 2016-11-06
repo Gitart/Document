@@ -8,3 +8,5 @@
 - https://www.ibm.com/developerworks/ru/library/l-go_03/index.html 
 - http://golang-club.blogspot.ru/2016/09/go.html 
 
+# Go tech
+[Web socket in GO](https://jacobmartins.com/2016/03/07/practical-golang-using-websockets/)  
