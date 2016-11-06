@@ -6,3 +6,5 @@
 - https://www.ibm.com/developerworks/ru/library/l-go_01/index.html
 - https://www.ibm.com/developerworks/ru/library/l-go_02/index.html
 - https://www.ibm.com/developerworks/ru/library/l-go_03/index.html 
+- http://golang-club.blogspot.ru/2016/09/go.html 
+
