@@ -76,7 +76,11 @@ error: "код ошибки или 0 в случае удачи"
 [Общее количество модулей в системе не влияют на ее производительность, так что полет вашей фантазии в области функционала не ограничен.](https://habrahabr.ru/post/108973/)  
 
 ## Technology
+[REST](https://ru.wikipedia.org/wiki/REST)   
 [AUTH](https://developers.google.com/identity/protocols/OAuth2)   
 [REST](https://en.wikipedia.org/wiki/Representational_state_transfer#Applied_to_web_services)   
 [JSON](https://en.wikipedia.org/wiki/JSON)   
 [Http](https://www.w3.org/Protocols/rfc2616/rfc2616.html)  
+[Микросервисы)(https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B)  
+
+
