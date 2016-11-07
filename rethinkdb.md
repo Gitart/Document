@@ -14,3 +14,12 @@
   r.db("Awr").table("w").eqJoin("id", r.db("Awr").table("y"),  {index: "tags"}).zip()
     
 ```
+### Update by index
+
+```Javascript
+   r.db("System").table("Corporation")
+   .getAll("A00ff17e6f25031c463acece7a7917042460BIBI", {index:"ID"})
+   .update({CORP:"Bi"})
+ ```
+  
+  
