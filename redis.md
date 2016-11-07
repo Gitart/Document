@@ -12,6 +12,9 @@
 - https://github.com/hoisie/redis
 - https://github.com/astaxie/goredis 
 
+### Try Redis
+- https://try.redis.io/
+
 ### Build web application with golang
 - https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/05.6.html  
 
