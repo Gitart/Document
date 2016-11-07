@@ -1,4 +1,4 @@
-# Rethinkdb
+# Rethinkdb v. 2.35
 
 
 ### Work the multi index based on the field tags
