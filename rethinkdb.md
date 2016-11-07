@@ -15,6 +15,9 @@
     
 ```
 
+
+
+
 ### Update by index
 ```Javascript
    r.db("System").table("Corporation")
