@@ -94,6 +94,6 @@ https://host:port/method/METHOD_NAME?PARAMETERS&access_token=ACCESS_TOKEN&v=V
 [REST](https://en.wikipedia.org/wiki/Representational_state_transfer#Applied_to_web_services)   
 [JSON](https://en.wikipedia.org/wiki/JSON)   
 [Http](https://www.w3.org/Protocols/rfc2616/rfc2616.html)  
-[Микросервисы)(https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B)  
+[Микросервисы](https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B)  
 
 
