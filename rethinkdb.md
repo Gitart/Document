@@ -31,3 +31,5 @@
  .get("e5b370c1-8ce3-4a18-be29-fb13cc8f5984")
  .update({ "title": [ "P12", "p22"],   "content":[ "ct", "ct", "ctf", "ca", "czz"],  "tags": [ "kt", "lt", "vt", "aa", "zz"]})
 ```
+
+![](jointab.png)
