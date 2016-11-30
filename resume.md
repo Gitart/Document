@@ -189,7 +189,7 @@
 |CBON|Certificate|Beskid|01.11.1998
 |Microsoft Office SharePoint Server 2007 for Content Managers|Certificate|Incom|21.08.2008
 |M2310: Developing Microsoft ASP.NET Web Applications Using Visual Studio .NET|Microsoft Certificate|Incom|20.03.2009
-|PM2010: Microsoft Office Project 2010 (basic, extended)|Certificate of achievement|Incom|11.23.10
+|PM2010: Microsoft Office Project 2010 (basic, extended)|Certificate of achievement|Incom|11.23.2010
 |80020: Introduction to Microsoft Dynamics AX 2009|Microsoft Certificate|Incom|02.09.2010
 |M6231: Maintaining a Microsoft SQL Server 2008 Database|Microsoft Certificate|Networking Technologies Education Center|19.11.2010
 |M6234: Implementing and Maintaining Microsoft SQL Server 2008 Analysis Servers|Microsoft Certificate|Cетевые Технологии|28.05.2011
@@ -199,6 +199,29 @@
 |Pre-Intermediate Level of Business Grade of – B|Certificate|YAPPI Corporate|20.07.2009
 
 
+
+## Принципы в работе :
+ Документация и планирование залог хорошей реализации;
+ Исключаю повторное использование данных в организации;
+ Все процессы должны быть прозрачными, информативными и быстрыми;
+ Везде пропагандирую on-line режим;
+ Сторонник разумной достаточности в системах;
+ Описание новых бизнес-процессов, оптимизация существующих;
+ Принимаю обоснованную и конструктивную критику;
+ Всегда защищаю интересы организации и мнение начальства;
+ Считаю самообучение толчок для развития организации в целом;
+ Предпочитаю системный подход к решению задач;
+ Противник спешки в решениях;
+ Не даю пустых обещаний;
+ Ценю проактивных и креативных людей;
+ Считаю в работе каждую мелочь важной;
+ Четкое описание и детальное решение - основа хорошего исполнения;
+ Стараюсь исключить в своей работе от Monkey Work;
+
+## Пожелания :
+ Не передавать резюме третьим лицам ;
+ Испытательный срок не должен отображаться на компенсации ;
+ Спокойная атмосфера в работе;
 
 
 
