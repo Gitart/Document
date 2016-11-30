@@ -127,7 +127,58 @@
 * Контроль качества работающих систем (Unit Test);
 * Консультация технических специалистов по работе с системами;
 
+## Технологии :
+* OC : Windows(Workstation, Server - LDAP) , Unix (Ubuntu 16, CentosOS, Solaris);
+* GO 1.7 (API SERVICE) ;
+* Nginx;
+* Python ;
+* ASP.NET 4.0;
+* VB.NET, C#, С++;
+* SharePoint 2007, 2013 (Web Parts, Workflow, etc.) (Сертификат);
+* VBA, VBS;
+* XML, X-Path;
+* ADO, DAO;
+* AD, Ldap;
+* MS Office All Products (2003-2013) (Сертификат);
+* CASE TOOLS - BPWIN, RWIN;
+* Microsoft Dynamics AX (Axapta);
+* PowerShell;
+* Сети и сетевые устройства Cisco (Сертификат);
 
+## Банковские технологии :
+* СЭП;
+* ОДБ «Унити-БАРС», "Scroodge-II, III" (Сертификат);
+* ОДБ "Globus" (Сертификат);
+* ОДБ "4K-Company" (Сертификат);
+* Система "СБОН" (Сертификат);
+* АЗИ, Криптография (Курсы);
+* Внутренние платежи «Профикс»;
+
+## Системы управления базами данных :
+### NOSQL:
+* RethinkDB
+* Redis 2.8,
+* MongoDB
+* CouchDB;
+
+### Relation DB :
+* MS SQL (6-2012) (XP, Trigger, Administrative, Business Intelligence) (Сертификаты);
+* Postgree 9.5;
+* MySQL;
+* Sql Anywhere 7.0;
+* Oracle 9;
+* FoxPro 2.0 – 8;
+* FireBerd;  SQLite;
+* MS Access 2000-2013
+
+### WEB Technology :
+* HTTP
+* TCP, UDP
+* HTML
+* HTML DOM;
+* CSS 3, Less;
+* JavaScript, VBscript;
+* JQuery, AngularJs, Node JS, Backbone Js;
 
 
 
