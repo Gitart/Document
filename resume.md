@@ -181,6 +181,22 @@
 * JQuery, AngularJs, Node JS, Backbone Js;
 
 
+## Сертификаты и курсы : 
+|Курс| Сертификат| Организация| Дата
+|-----|------|-------|-----|
+|Portal Solutions MOSS 2007 for users|Certificate|Softline|02.08.2008
+|Development Windows SharePoint Server 2007|Certificate|Softline|04.11.2008
+|CBON|Certificate|Beskid|01.11.1998
+|Microsoft Office SharePoint Server 2007 for Content Managers|Certificate|Incom|21.08.2008
+|M2310: Developing Microsoft ASP.NET Web Applications Using Visual Studio .NET|Microsoft Certificate|Incom|20.03.2009
+|PM2010: Microsoft Office Project 2010 (basic, extended)|Certificate of achievement|Incom|11.23.10
+|80020: Introduction to Microsoft Dynamics AX 2009|Microsoft Certificate|Incom|02.09.2010
+|M6231: Maintaining a Microsoft SQL Server 2008 Database|Microsoft Certificate|Networking Technologies Education Center|19.11.2010
+|M6234: Implementing and Maintaining Microsoft SQL Server 2008 Analysis Servers|Microsoft Certificate|Cетевые Технологии|28.05.2011
+|ITIL (II)|Certificate|03.08.2013
+|M20489 Developing Microsoft SharePoint Server 2013 Advanced Solutions|Microsoft Certificate|Cетевые Технологии|21.03.2014
+|Business English (Elementary – B)|Certificate|Denis School|28.02.2009
+|Pre-Intermediate Level of Business Grade of – B|Certificate|YAPPI Corporate|20.07.2009
 
 
 
