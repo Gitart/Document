@@ -228,8 +228,6 @@ Skype : **airbatiskaf**
 |Business English (Elementary – B)|Certificate|Denis School|28.02.2009
 |Pre-Intermediate Level of Business Grade of – B|Certificate|YAPPI Corporate|20.07.2009
 
-
-
 ## Принципы в работе :
 * Документация и планирование залог хорошей реализации;
 * Исключаю повторное использование данных в организации;
@@ -252,9 +250,3 @@ Skype : **airbatiskaf**
 * Не передавать резюме третьим лицам ;
 * Испытательный срок не должен отображаться на компенсации ;
 * Спокойная атмосфера в работе;
-
-
-
-
-
-
