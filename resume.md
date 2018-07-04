@@ -30,7 +30,7 @@ Skype : **airbatiskaf**
 |Проект|Описание|Технологии
 |-----|-----|----|
 |**INFO**|Корпоративная информационная система||
-|**HRM (Haring)**|Full Stack||
+|**HRM (Haring)**|Модуль учета кандидатов||
 |**HDO**|REST API SERVICE (Full Stack)| (GO 1.7.3, RethinkDb, Redis, Nginx)|
 |**VIMS**|Корпоративная система уровня ERP||  
 |**Doc Flow**|Корпоративный документооборот (SahrePoint 2007 + ASP.NET 4)||  
