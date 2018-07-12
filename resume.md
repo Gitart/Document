@@ -183,6 +183,29 @@ Skype : **airbatiskaf**
 * Git;
 * Gulp;
 
+## Методологии 
+* Построение REST API сервисов - методы, подходы, решения 
+* AGILE: Гибкие методы управления - Scrum
+* Система распердленных версий Git (GitHub, GitLub)
+* PMBOK "Управление проектами" 
+* ITIL (The Information Technology Infrastructure Library) - библиотеку передового опыта в области управления ИТ
+* COBIT (Control Objectives for Information and Related Technology) – стандарт в области контроля за информационными технологиями
+* S3M (The Software Maintenance Maturity Model) - модели зрелости обслуживания ПО
+* ASL (Application Services Library) - библиотека сервис-приложений
+* IT Service Management (ITSM)
+* Управление ИТ и сервисным обслуживанием, автоматизация процессов и служб Service Desk
+* Релиз менеджмент 
+* Управление процессом разработки
+* Теория замкнутых систем
+* ITSM (IT Service Management) "Управления ИТ-подразделениями"
+* MSA «Микросервисная архитектура»
+* SOA «Управленческие инструменты организации отношений ИТ с бизнесом на основе ITIL®»
+* ITPM «Инструменты управления ИТ-проектами»
+* MALC «Управление жизненным циклом услуг»
+* BAF «Основы бизнес-анализа»
+* QA «QA и тестирование программного обеспечения»
+* BABOK v3 (IIBA) - Планирование и мониторинг, Сбор информации и совместная работа, Управление жизненным циклом требований
+
 ## Банковские технологии :
 * СЭП;
 * АБС «Унити-БАРС»
@@ -234,6 +257,13 @@ Skype : **airbatiskaf**
 * PowerShell
 * VBscript
 
+
+
+
+
+
+
+
 ## Сертификаты и курсы : 
 |Курс| Сертификат| Организация| Дата
 |-----|------|-------|-----|
@@ -250,6 +280,12 @@ Skype : **airbatiskaf**
 |M20489 Developing Microsoft SharePoint Server 2013 Advanced Solutions|Microsoft Certificate|Cетевые Технологии|21.03.2014
 |Business English (Elementary – B)|Certificate|Denis School|28.02.2009
 |Pre-Intermediate Level of Business Grade of – B|Certificate|YAPPI Corporate|20.07.2009
+
+## Дополнительные курсы
+* Управление производством
+* Рапредленные хранилища - принципы построения 
+* ВІ - методы, решения и подходы
+* Scram, Kanban
 
 ## Принципы в работе :
 * Документация и планирование залог хорошей реализации;
